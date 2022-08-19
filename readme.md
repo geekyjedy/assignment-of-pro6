@@ -8,7 +8,9 @@
 ![image](./pro6.png)
 
 
-***
+![badge](https://img.shields.io/badge/-Live%20project%20link-green)
+
+- [Live Project Here](https://geekyjedy-pro6.netlify.app/ "Netlify Live Project Link")
 
 
 # About Me
